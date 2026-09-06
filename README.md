@@ -1,6 +1,6 @@
 # 🏡 Nashville Housing Market Intelligence Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nashville-housing-dashboard-9wn8etvjyeut3fn5o83ab.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nashville-housing-dashboard-9wn8etvyyeut3yfn5o83ab.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
